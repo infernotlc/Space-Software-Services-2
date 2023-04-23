@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "783540165103",
+    "project_id": "tarifler-ad28a",
+    "storage_bucket": "tarifler-ad28a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783540165103:android:4907199b5dd708b10afe1a",
+        "android_client_info": {
+          "package_name": "com.example.firebase_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783540165103-gfgqbo37nus5e59m51ecpcfajggklsvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiadigABnaS6q9LrnyZa1dH9CiyCikWeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783540165103-gfgqbo37nus5e59m51ecpcfajggklsvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
